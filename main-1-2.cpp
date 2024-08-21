@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Orchestra.h"
-#include "musician.h"
+#include "Musician.h"
 
 int main() {
     // create an empty orchestra
