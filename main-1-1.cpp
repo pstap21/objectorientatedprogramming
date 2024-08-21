@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "Musician.h"
+#include "musician.h"
 
 int main() {
     Musician m1;

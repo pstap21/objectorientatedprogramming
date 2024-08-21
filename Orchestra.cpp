@@ -1,6 +1,6 @@
 #include <iostream>
 #include "Orchestra.h"
-#include "Musician.h"
+#include "musician.h"
 
 // Default constructor
 Orchestra::Orchestra() : size(0), currentNum(0), array(nullptr) {}
