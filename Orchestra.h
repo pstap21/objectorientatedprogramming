@@ -2,7 +2,7 @@
 #ifndef ORCHESTRA_H
 #define ORCHESTRA_H
 
-#include "musician.h"
+#include "Musician.h"
 #include <string>
 
 class Orchestra {
