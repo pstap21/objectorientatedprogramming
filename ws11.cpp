@@ -47,8 +47,8 @@ public:
 int main() {
      try{
         //RecordsManager recordM("test_clean.txt");
-        RecordsManager receordM("test_corrupt1.txt");
-     // RecordsManager receordM("test_corrupt2.txt");
+        RecordsManager recordM("test_corrupt1.txt");
+     // RecordsManager recordM("test_corrupt2.txt");
         Records myRecords;
 
         // reads records
