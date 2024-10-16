@@ -1,4 +1,4 @@
-#include <iostream>
+ #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
@@ -46,13 +46,13 @@ public:
 
 int main() {
      try{
-       // RecordsManager receordM("test_clean.txt");
+        //RecordsManager recordM("test_clean.txt");
         RecordsManager receordM("test_corrupt1.txt");
-       //RecordsManager receordM("test_corrupt2.txt");
+     // RecordsManager receordM("test_corrupt2.txt");
         Records myRecords;
 
         // reads records
-        receordM.read(myRecords);
+        recordM.read(myRecords);
 
         // calculate and print out the sum
         int sum = 0;
